@@ -1,0 +1,23 @@
+<!DOCTYPE html> 
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>https://eitaa.com/lastikhadizadeh</title>
+    <style>
+        body { font-family: Tahoma, sans-serif; background-color: #f4f4f4; text-align: center; padding: 50px; }
+        .container { background: white; padding: 30px; border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.1); display: inline-block; }
+        h1 { color: #333; }
+        p { color: #666; font-size: 18px; }
+        .btn { display: inline-block; background: #0088cc; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>https://eitaa.com/lastikhadizadeh</h1>
+        <p>عرضه انواع لاستیک‌های ایرانی و خارجی با بهترین قیمت</p>
+        <p>برای مشاهده مدل‌ها، قیمت‌ها و ثبت سفارش، وارد کانال تلگرام / ایتا ما شوید:</p>
+        <a href="لینک_کانال_شما" class="btn">ورود به کانال فروشگاه</a>
+    </div>
+</body>
+</html>
